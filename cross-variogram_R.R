@@ -1,9 +1,9 @@
 require(gstat)
 library(gstat)
 
-dados=read.table("Dados_Precipitacao.txt", head=T)
+dados=read.table("precipitation_git.txt", head=T)
 dados=as.data.frame(dados)
-prod = read.table("produtividade_mun.txt", head=T)
+prod = read.table("yield_git.txt", head=T)
 prod = as.data.frame(prod)
 
 prec = dados[,6]
