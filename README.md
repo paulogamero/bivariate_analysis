@@ -16,8 +16,8 @@ We use free and open source software for analysis: RStudio and GeoDa. In additio
 * GeoDa (https://geodacenter.github.io/download.html)
 
 ## Scripts
-* !scripts/cross-variogram_R.R: application of the cross semivariogram
-* !scripts/co-dispersion.R: application of the co-dispersion coefficient
+* [a link](scripts/cross-variogram_R.R): application of the cross semivariogram
+* [a relative link](scripts/co-dispersion.R: application) of the co-dispersion coefficient
 
 ## Detailed scripts
 
