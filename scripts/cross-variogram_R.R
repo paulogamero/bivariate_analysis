@@ -1,9 +1,9 @@
 require(gstat)
 library(gstat)
 
-d=read.table("precipitation_git.txt", head=T)
+d=read.table("prec.txt", head=T)
 d=as.data.frame(d)
-yield = read.table("yield_git.txt", head=T)
+yield = read.table("yield.txt", head=T)
 yield = as.data.frame(yield)
 
 prec = d[,6]
